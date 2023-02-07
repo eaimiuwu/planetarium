@@ -32,8 +32,12 @@ html {
     background-color: rgb(245,245,245);
   }
   
-  caption {
+.caption {
     padding: 10px;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 10px;
+    text-align: center;
   }
 
   body, html {
